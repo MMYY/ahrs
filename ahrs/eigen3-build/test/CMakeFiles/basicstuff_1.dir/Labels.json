@@ -1,0 +1,15 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/mnt/e/Codes/ukf-2/src/eigen3/test/basicstuff.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildOfficial" ],
+		"name" : "basicstuff_1"
+	}
+}

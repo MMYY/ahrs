@@ -1,0 +1,15 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/mnt/e/Codes/ukf-2/src/eigen3/test/vectorwiseop.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildOfficial" ],
+		"name" : "vectorwiseop_2"
+	}
+}

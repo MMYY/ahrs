@@ -1,0 +1,15 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/mnt/e/Codes/ukf-2/src/eigen3/test/mapstaticmethods.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildOfficial" ],
+		"name" : "mapstaticmethods_1"
+	}
+}

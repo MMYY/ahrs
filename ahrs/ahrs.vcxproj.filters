@@ -24,12 +24,51 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="comparisons.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dynamics.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="integrator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sensors.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="state.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="types.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ukf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="ahrs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamics.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sensors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="state.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ukf.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
